@@ -9,7 +9,7 @@ Pairwise compatibility prediction of polyvore outfits dataset using a CNN model 
 # File description
 
     dataloader.py: Data preprocessing and loading.
-    model.py: Siamese modelnet_v2
+    model.py: modelnet_v2
     model_strath.py - CNN built from scratch 
     utils.py: hyperparameters and file paths
 
